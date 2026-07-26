@@ -181,8 +181,3 @@ If you use this repository, please cite
 Lecheng Mao,
 *A Machine-Learning-Based Framework for Multi-Class Structural Damage Classification Using Frequency–Curvature Modal Features*.
 
----
-
-## Acknowledgement
-
-This work was completed as part of the Pioneer Research Program under the supervision of Dr. Kalil Erazo (Rice University).
